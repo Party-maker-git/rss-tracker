@@ -1,6 +1,8 @@
 # RSS Tracker Service
 
 ![screenshot](https://github.com/user-attachments/assets/cf1eec9d-bdba-44d0-b82b-fcfb37fbab42)
+![Снимок экрана 2025-05-02 084318](https://github.com/user-attachments/assets/305dac35-e014-4450-9f30-b7a01d8861cc)
+![Снимок экрана 2025-05-02 084035](https://github.com/user-attachments/assets/2be29b67-a55e-4468-9a32-d5ecad0922a4)
 
 Веб-сервис для мониторинга ключевых слов в RSS-лентах с сохранением результатов в БД
 
@@ -27,8 +29,10 @@ cd rss-tracker
 ```bash
 pip install -r requirements.txt
 ```
+
 3. Запустите сервис:
 ```bash
+
 python rss_tracker.py
 ```
 4. Откройте в браузере:
@@ -37,7 +41,7 @@ http://localhost:5000
 5. Откройте в браузере, что бы увидеть БД:
 http://localhost:5000/debug/db
 
-🔧 API Endpoints
+## 🔧 API Endpoints
 ### API Endpoints
 | Метод | Endpoint | Описание | Пример тела запроса |
 |-------|----------|----------|---------------------|
@@ -52,7 +56,9 @@ http://localhost:5000/debug/db
 ## 📊 Результаты работы
 
 ### Пример лога за 4 часа
+![Снимок экрана 2025-05-02 185033](https://github.com/user-attachments/assets/c0ac5b42-1b02-4c62-9aa5-827b1a1cf3ca)
 [rss_tracker.log](https://github.com/user-attachments/files/20015142/rss_tracker.log)
 
 📝 Лицензия
 Проект распространяется под лицензией MIT. Полный текст доступен в файле LICENSE.
+
