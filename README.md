@@ -41,7 +41,7 @@ pip install -r requirements.txt
 3. Запустите сервис:
 ```bash
 
-python rss_tracker.py
+python web_service.py
 ```
 4. Откройте в браузере:
 http://localhost:5000
