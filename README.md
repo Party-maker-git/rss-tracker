@@ -22,7 +22,3 @@
 ```bash
 git clone https://github.com/Party-maker-git/rss-tracker.git
 cd rss-tracker
-
-2. Установите зависимости:
-'''bash
-
