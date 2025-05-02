@@ -22,3 +22,4 @@
 ```bash
 git clone https://github.com/Party-maker-git/rss-tracker.git
 cd rss-tracker
+![screenshot](https://github.com/user-attachments/assets/cf1eec9d-bdba-44d0-b82b-fcfb37fbab42)
