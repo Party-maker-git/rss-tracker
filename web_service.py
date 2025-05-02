@@ -4,7 +4,6 @@ import feedparser
 from datetime import datetime
 import threading
 import time
-import atexit
 import urllib.parse
 import logging
 
