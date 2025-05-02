@@ -1,6 +1,7 @@
 # RSS Tracker Service
-
+1. Главный интерфейс - просмотр новостей
 ![screenshot](https://github.com/user-attachments/assets/cf1eec9d-bdba-44d0-b82b-fcfb37fbab42)
+3. Панель управления RSS-лентами
 ![Снимок экрана 2025-05-02 084318](https://github.com/user-attachments/assets/305dac35-e014-4450-9f30-b7a01d8861cc)
 ![Снимок экрана 2025-05-02 084035](https://github.com/user-attachments/assets/2be29b67-a55e-4468-9a32-d5ecad0922a4)
 
