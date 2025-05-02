@@ -10,6 +10,9 @@
 
 Веб-сервис для мониторинга ключевых слов в RSS-лентах с сохранением результатов в БД
 
+![Снимок экрана 2025-05-02 085342](https://github.com/user-attachments/assets/bf4d5d0b-1e04-42fa-a136-39ca8d342805)
+![Снимок экрана 2025-05-02 085438](https://github.com/user-attachments/assets/17a2e34a-fc44-42fd-b8d2-03d2ab7f42cd)
+
 ## 📌 Задание
 
 Сервис состоит из двух частей:
@@ -31,6 +34,7 @@ cd rss-tracker
 ```
 2. Установите зависимости:
 ```bash
+
 pip install -r requirements.txt
 ```
 
