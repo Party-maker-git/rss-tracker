@@ -1,6 +1,6 @@
 # RSS Tracker Service
 
-![Screenshot](screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/cf1eec9d-bdba-44d0-b82b-fcfb37fbab42)
 
 Веб-сервис для мониторинга ключевых слов в RSS-лентах с сохранением результатов в БД
 
@@ -22,4 +22,4 @@
 ```bash
 git clone https://github.com/Party-maker-git/rss-tracker.git
 cd rss-tracker
-![screenshot](https://github.com/user-attachments/assets/cf1eec9d-bdba-44d0-b82b-fcfb37fbab42)
+
