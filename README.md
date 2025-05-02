@@ -32,7 +32,7 @@
 git clone https://github.com/Party-maker-git/rss-tracker.git
 cd rss-tracker
 ```
-2. Установите зависимости:
+2. Установите необходимые зависимости:
 ```bash
 
 pip install -r requirements.txt
